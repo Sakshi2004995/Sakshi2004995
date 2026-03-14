@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Sakshi Sharma
 
-<!--
-**Sakshi2004995/Sakshi2004995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+🤖 AI / ML Enthusiast  
+💻 Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🤖 AI Resume Analyzer
+A web application that analyzes resumes and detects technical skills using Python and Streamlit.
+
+### 💬 AI Chatbot Web App
+A chatbot web application built using Python and Streamlit.
+
+### 🎬 Movie Recommendation System
+A machine learning based movie recommendation system using cosine similarity.
+
+### 🖼 Image Classifier Web App
+A simple AI web application that classifies uploaded images.
+
+---
+
+## 🛠 Skills
+
+Python  
+Machine Learning  
+Data Structures & Algorithms  
+HTML CSS JavaScript  
+Streamlit  
+Git & GitHub  
+
+---
+
+## 📫 Connect with me
+
+GitHub: https://github.com/Sakshi2004995
