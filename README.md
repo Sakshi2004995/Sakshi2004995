@@ -1,38 +1,94 @@
-# Hi 👋 I'm Sakshi Sharma
+# Hi 👋, I'm Sakshi Sharma
 
-🎓 B.Tech Computer Science Student  
-🤖 AI / ML Enthusiast  
-💻 Web Developer  
+### 🚀 Software Developer | Full Stack Developer | Computer Science Student
 
----
-
-## 🚀 Projects
-
-### 🤖 AI Resume Analyzer
-A web application that analyzes resumes and detects technical skills using Python and Streamlit.
-
-### 💬 AI Chatbot Web App
-A chatbot web application built using Python and Streamlit.
-
-### 🎬 Movie Recommendation System
-A machine learning based movie recommendation system using cosine similarity.
-
-### 🖼 Image Classifier Web App
-A simple AI web application that classifies uploaded images.
+🎓 Final Year B.Tech (CSE) Student  
+💻 Passionate about Software Development, Full Stack Development & Problem Solving  
+🌱 Currently learning MERN Stack, Advanced DSA and Backend Development  
+⚡ Building real-world Full Stack projects while preparing for Software Developer roles
 
 ---
 
-## 🛠 Skills
+## 👩‍💻 About Me
 
-Python  
-Machine Learning  
-Data Structures & Algorithms  
-HTML CSS JavaScript  
-Streamlit  
-Git & GitHub  
+- 🎓 Final Year Computer Science Engineering Student
+- 💻 Aspiring Software Developer
+- 🌐 Learning Full Stack Web Development (MERN)
+- 📚 Solving Data Structures & Algorithms regularly
+- 🚀 Interested in Backend Development, Web Development & Software Engineering
+- 💼 Open to Software Developer and Full Stack Developer opportunities
 
 ---
 
-## 📫 Connect with me
+# 🚀 Tech Stack
 
-GitHub: https://github.com/Sakshi2004995
+### Programming Languages
+
+- C++
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Streamlit
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- MERN Stack
+- Advanced Data Structures & Algorithms
+- Backend Development
+- System Design
+
+---
+
+# 📫 Connect With Me
+
+🐙 GitHub  
+https://github.com/Sakshi2004995
+
+📧 Email  
+su7645290@gmail.com
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
