@@ -1,38 +1,22 @@
-<h1 align="center">
-  Hi 👋 I'm Sakshi Sharma
-</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 
 <h3 align="center">
 🚀 Final Year CSE Student | Full Stack Developer | AI/ML Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;DSA+Learner;Building+Projects+Every+Day;Open+to+Internships+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;LeetCode+Problem+Solver;Building+Projects+with+Passion;Open+to+Internships+🚀"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 Final Year B.Tech CSE Student
-
-💻 Passionate about Software Development
-
-🌱 Currently Learning
-- React
-- Node.js
-- AI/ML
-- System Design
-- DSA
-
-🚀 Building Real World Projects
-
-🎯 Goal
-> Become a Software Development Engineer (SDE)
-
-📍 Rajasthan, India
+- 🎓 Final Year B.Tech Computer Science Engineering Student
+- 💻 Passionate about Software Development and Problem Solving
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📚 Consistently solving Data Structures & Algorithms problems on LeetCode
+- 🎯 Seeking Software Development Internship and Full-Time Opportunities
 
 ---
 
@@ -70,40 +54,31 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Repositories
 
-| Project | Tech Stack |
-|----------|------------|
-| 💰 Expense Tracker | HTML CSS JavaScript |
-| 🤖 AI Resume Analyzer | Python Streamlit |
-| 💬 AI Chatbot | Python |
-| 🌿 Plant Disease Detection | TensorFlow |
-| 📊 GitHub Performance Tracker | FastAPI |
-| 🍽️ Restaurant Website | HTML CSS |
-| 📱 Smart Queue Management | Full Stack |
+| Repository | Description |
+|------------|-------------|
+| 📚 DSA-Practice | Daily LeetCode solutions in C++ with optimized approaches, explanations, and complexity analysis. |
+| 💰 Expense Tracker | Responsive Expense Tracker built using HTML, CSS, and JavaScript. |
+| 📊 SoftNexis-Task-1 | Data Cleaning and Preprocessing project using Python and Pandas. |
+| 📈 SoftNexis-Task-2 | Exploratory Data Analysis (EDA) using Python, Pandas, and Matplotlib. |
+| 📉 SoftNexis-Task-3 | Time Series Analysis project using Python and Matplotlib. |
 
 ---
 
-# 📚 DSA Journey
+# 📚 DSA Progress
 
-✔ Daily LeetCode Practice
+✅ Solved Problems
 
-```
-Solved ✔
-Arrays
-Linked List
-Two Pointers
+- Arrays
+- Linked Lists
+- Two Pointers
 
-Learning 🚀
-Binary Search
-Stack
-Queue
+🎯 Goal
 
-Coming Soon
-Trees
-Graphs
-Dynamic Programming
-```
+- Solve LeetCode consistently
+- Strengthen DSA concepts
+- Build strong problem-solving skills
 
 ---
 
@@ -115,7 +90,7 @@ Dynamic Programming
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -135,7 +110,7 @@ Dynamic Programming
 
 ---
 
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=tokyo-night"/>
@@ -161,18 +136,14 @@ Dynamic Programming
 
 # 💡 Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+> **"Consistency is the key to becoming better every single day."**
 
 ---
 
-<h2 align="center">
-
-⭐ Thanks For Visiting My Profile ⭐
-
-</h2>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Sakshi2004995&style=for-the-badge"/>
-
 </p>
