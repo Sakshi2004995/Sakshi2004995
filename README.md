@@ -1,121 +1,125 @@
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 
-<h3 align="center">
-🚀 Final Year CSE Student | Full Stack Developer | AI/ML Enthusiast | Problem Solver
-</h3>
+<p align="center">
+<b>Software Developer | Full Stack Developer | AI/ML Enthusiast | Problem Solver</b>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;LeetCode+Problem+Solver;Building+Projects+with+Passion;Open+to+Internships+🚀"/>
+Final Year Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms problems, and developing real-world applications.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 - 🎓 Final Year B.Tech Computer Science Engineering Student
-- 💻 Passionate about Software Development and Problem Solving
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Passionate about Software Development and Full Stack Development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
 - 📚 Consistently solving Data Structures & Algorithms problems on LeetCode
-- 🎯 Seeking Software Development Internship and Full-Time Opportunities
+- 🚀 Building projects to strengthen development and problem-solving skills
+- 🎯 Aspiring Software Development Engineer (SDE)
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technical Skills
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
-</p>
+- C++
+- Python
+- JavaScript
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
-</p>
+- HTML
+- CSS
+- Tailwind CSS
+- React
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+- Node.js
+- Express.js
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+- MongoDB
+- MySQL
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-# 🚀 Featured Repositories
+# 📂 Featured Repositories
 
-| Repository | Description |
-|------------|-------------|
-| 📚 DSA-Practice | Daily LeetCode solutions in C++ with optimized approaches and complexity analysis. |
-| 💰 Expense Tracker | Responsive Expense Tracker built using HTML, CSS, and JavaScript. |
-| 📊 SoftNexis-Task-1 | Data Cleaning and Preprocessing using Python and Pandas. |
-| 📈 SoftNexis-Task-2 | Exploratory Data Analysis (EDA) using Python. |
-| 📉 SoftNexis-Task-3 | Time Series Analysis using Python and Matplotlib. |
+### 📚 DSA-Practice
+
+Daily LeetCode solutions in C++ with optimized approaches, explanations, time complexity, and space complexity.
+
+### 💰 Expense Tracker
+
+Expense Tracker developed using HTML, CSS, and JavaScript.
+
+### 📊 SoftNexis Task 1
+
+Data Cleaning and Preprocessing using Python and Pandas.
+
+### 📈 SoftNexis Task 2
+
+Exploratory Data Analysis (EDA) using Python.
+
+### 📉 SoftNexis Task 3
+
+Time Series Analysis using Python and Matplotlib.
 
 ---
 
 # 📚 DSA Progress
 
-✅ Completed Topics
+### Completed
 
 - Arrays
 - Linked Lists
 - Two Pointers
 
-🎯 Current Goal
+### Current Goal
 
 - Solve LeetCode consistently
-- Strengthen DSA concepts
-- Build real-world development projects
+- Improve Data Structures & Algorithms
+- Build production-ready software projects
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=github-dark"/>
+
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-
-<a href="https://www.linkedin.com/in/sakshi-sharma-sde">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:su7645290@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- 💼 LinkedIn: www.linkedin.com/in/sakshi-sharma-sde
+- 📧 Email: **su7645290@gmail.com**
 
 ---
 
-# 💡 Quote
+# 🎯 Career Objective
 
-> **"Consistency is the key to becoming better every single day."**
+To contribute as a Software Development Engineer by building scalable, efficient, and user-focused applications while continuously improving problem-solving skills and software engineering expertise.
 
 ---
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sakshi2004995&style=for-the-badge"/>
+
+⭐ Thank you for visiting my GitHub profile!
+
 </p>
