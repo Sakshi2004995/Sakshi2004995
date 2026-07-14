@@ -1,94 +1,178 @@
-# Hi 👋, I'm Sakshi Sharma
+<h1 align="center">
+  Hi 👋 I'm Sakshi Sharma
+</h1>
 
-### 🚀 Software Developer | Full Stack Developer | Computer Science Student
+<h3 align="center">
+🚀 Final Year CSE Student | Full Stack Developer | AI/ML Enthusiast | Problem Solver
+</h3>
 
-🎓 Final Year B.Tech (CSE) Student  
-💻 Passionate about Software Development, Full Stack Development & Problem Solving  
-🌱 Currently learning MERN Stack, Advanced DSA and Backend Development  
-⚡ Building real-world Full Stack projects while preparing for Software Developer roles
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;DSA+Learner;Building+Projects+Every+Day;Open+to+Internships+%F0%9F%9A%80" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year Computer Science Engineering Student
-- 💻 Aspiring Software Developer
-- 🌐 Learning Full Stack Web Development (MERN)
-- 📚 Solving Data Structures & Algorithms regularly
-- 🚀 Interested in Backend Development, Web Development & Software Engineering
-- 💼 Open to Software Developer and Full Stack Developer opportunities
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 Final Year B.Tech CSE Student
+
+💻 Passionate about Software Development
+
+🌱 Currently Learning
+- React
+- Node.js
+- AI/ML
+- System Design
+- DSA
+
+🚀 Building Real World Projects
+
+🎯 Goal
+> Become a Software Development Engineer (SDE)
+
+📍 Rajasthan, India
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
-- C++
-- Python
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+</p>
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 ### Database
 
-- MongoDB
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-### Tools & Technologies
+### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Streamlit
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Tech Stack |
+|----------|------------|
+| 💰 Expense Tracker | HTML CSS JavaScript |
+| 🤖 AI Resume Analyzer | Python Streamlit |
+| 💬 AI Chatbot | Python |
+| 🌿 Plant Disease Detection | TensorFlow |
+| 📊 GitHub Performance Tracker | FastAPI |
+| 🍽️ Restaurant Website | HTML CSS |
+| 📱 Smart Queue Management | Full Stack |
+
+---
+
+# 📚 DSA Journey
+
+✔ Daily LeetCode Practice
+
+```
+Solved ✔
+Arrays
+Linked List
+Two Pointers
+
+Learning 🚀
+Binary Search
+Stack
+Queue
+
+Coming Soon
+Trees
+Graphs
+Dynamic Programming
+```
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi2004995&theme=algolia&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🔥 GitHub Streak
 
-- MERN Stack
-- Advanced Data Structures & Algorithms
-- Backend Development
-- System Design
-
----
-
-# 📫 Connect With Me
-
-🐙 GitHub  
-https://github.com/Sakshi2004995
-
-📧 Email  
-su7645290@gmail.com
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+# 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/sakshi-sharma-sde">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:su7645290@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+---
+
+<h2 align="center">
+
+⭐ Thanks For Visiting My Profile ⭐
+
+</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sakshi2004995&style=for-the-badge"/>
+
+</p>
