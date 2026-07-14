@@ -58,55 +58,27 @@
 
 | Repository | Description |
 |------------|-------------|
-| 📚 DSA-Practice | Daily LeetCode solutions in C++ with optimized approaches, explanations, and complexity analysis. |
+| 📚 DSA-Practice | Daily LeetCode solutions in C++ with optimized approaches and complexity analysis. |
 | 💰 Expense Tracker | Responsive Expense Tracker built using HTML, CSS, and JavaScript. |
-| 📊 SoftNexis-Task-1 | Data Cleaning and Preprocessing project using Python and Pandas. |
-| 📈 SoftNexis-Task-2 | Exploratory Data Analysis (EDA) using Python, Pandas, and Matplotlib. |
-| 📉 SoftNexis-Task-3 | Time Series Analysis project using Python and Matplotlib. |
+| 📊 SoftNexis-Task-1 | Data Cleaning and Preprocessing using Python and Pandas. |
+| 📈 SoftNexis-Task-2 | Exploratory Data Analysis (EDA) using Python. |
+| 📉 SoftNexis-Task-3 | Time Series Analysis using Python and Matplotlib. |
 
 ---
 
 # 📚 DSA Progress
 
-✅ Solved Problems
+✅ Completed Topics
 
 - Arrays
 - Linked Lists
 - Two Pointers
 
-🎯 Goal
+🎯 Current Goal
 
 - Solve LeetCode consistently
 - Strengthen DSA concepts
-- Build strong problem-solving skills
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi2004995&theme=algolia&row=1&column=6"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight"/>
-</p>
+- Build real-world development projects
 
 ---
 
