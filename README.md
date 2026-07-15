@@ -24,30 +24,25 @@ Final Year Computer Science Engineering Student passionate about building scalab
 # 💻 Technical Skills
 
 ### Programming Languages
-
 - C++
 - Python
 - JavaScript
 
 ### Frontend
-
 - HTML
 - CSS
 - Tailwind CSS
-- React
+- React (Learning)
 
 ### Backend
-
-- Node.js
-- Express.js
+- Node.js (Learning)
+- Express.js (Learning)
 
 ### Database
-
-- MongoDB
+- MongoDB (Learning)
 - MySQL
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
@@ -58,44 +53,71 @@ Final Year Computer Science Engineering Student passionate about building scalab
 # 📂 Featured Repositories
 
 ### 📚 DSA-Practice
-
-Daily LeetCode solutions in C++ with optimized approaches, explanations, time complexity, and space complexity.
+Daily LeetCode solutions in **C++** with optimized approaches, explanations, time complexity, and space complexity.
 
 ### 💰 Expense Tracker
-
-Expense Tracker developed using HTML, CSS, and JavaScript.
+Expense Tracker developed using **HTML, CSS, and JavaScript**.
 
 ### 📊 SoftNexis Task 1
-
-Data Cleaning and Preprocessing using Python and Pandas.
+Data Cleaning and Preprocessing using **Python and Pandas**.
 
 ### 📈 SoftNexis Task 2
-
-Exploratory Data Analysis (EDA) using Python.
+Exploratory Data Analysis (EDA) using **Python**.
 
 ### 📉 SoftNexis Task 3
+Time Series Analysis using **Python and Matplotlib**.
 
-Time Series Analysis using Python and Matplotlib.
+---
+
+# 🏆 Certifications
+
+<p align="center">
+
+<img src="images/aws-ml-foundations.png" width="220">
+
+</p>
+
+<p align="center">
+
+### AWS Educate – Machine Learning Foundations
+
+Successfully completed the **AWS Educate Machine Learning Foundations** training program.
+
+</p>
 
 ---
 
 # 📚 DSA Progress
 
-### Completed
-
+### ✅ Completed
 - Arrays
+- Strings
 - Linked Lists
 - Two Pointers
 
-### Current Goal
-
+### 🎯 Current Goals
 - Solve LeetCode consistently
-- Improve Data Structures & Algorithms
+- Master Data Structures & Algorithms
+- Learn Full Stack Development
 - Build production-ready software projects
 
 ---
 
 # 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -107,19 +129,21 @@ Time Series Analysis using Python and Matplotlib.
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/sakshi-sharma-sde
-- 📧 Email: **su7645290@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/sakshi-sharma-sde
+- 💻 GitHub: https://github.com/Sakshi2004995
+- 📧 Email: su7645290@gmail.com
 
 ---
 
 # 🎯 Career Objective
 
-To contribute as a Software Development Engineer by building scalable, efficient, and user-focused applications while continuously improving problem-solving skills and software engineering expertise.
+To contribute as a Software Development Engineer by building scalable, efficient, and user-focused applications while continuously improving problem-solving skills, software engineering expertise, and real-world development experience.
 
 ---
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thank you for visiting my GitHub profile!<br><br>
+<i>Always learning • Always building • Always improving 🚀</i>
 
 </p>
