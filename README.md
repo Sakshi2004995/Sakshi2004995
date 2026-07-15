@@ -23,26 +23,31 @@ Final Year Computer Science Engineering Student passionate about building scalab
 
 # 💻 Technical Skills
 
-### Programming Languages
+## Programming Languages
+
 - C++
 - Python
 - JavaScript
 
-### Frontend
+## Frontend
+
 - HTML
 - CSS
 - Tailwind CSS
 - React (Learning)
 
-### Backend
+## Backend
+
 - Node.js (Learning)
 - Express.js (Learning)
 
-### Database
+## Database
+
 - MongoDB (Learning)
 - MySQL
 
-### Tools
+## Tools
+
 - Git
 - GitHub
 - VS Code
@@ -53,49 +58,46 @@ Final Year Computer Science Engineering Student passionate about building scalab
 # 📂 Featured Repositories
 
 ### 📚 DSA-Practice
-Daily LeetCode solutions in **C++** with optimized approaches, explanations, time complexity, and space complexity.
+Daily LeetCode solutions in C++ with optimized approaches, explanations, time complexity, and space complexity.
 
 ### 💰 Expense Tracker
-Expense Tracker developed using **HTML, CSS, and JavaScript**.
+Expense Tracker developed using HTML, CSS, and JavaScript.
 
 ### 📊 SoftNexis Task 1
-Data Cleaning and Preprocessing using **Python and Pandas**.
+Data Cleaning and Preprocessing using Python and Pandas.
 
 ### 📈 SoftNexis Task 2
-Exploratory Data Analysis (EDA) using **Python**.
+Exploratory Data Analysis (EDA) using Python.
 
 ### 📉 SoftNexis Task 3
-Time Series Analysis using **Python and Matplotlib**.
+Time Series Analysis using Python and Matplotlib.
 
 ---
 
 # 🏆 Certifications
 
 <p align="center">
-
-<img src="images/aws-ml-foundations.png" width="220">
-
+<img src="aws-ml-foundations.png" width="220" alt="AWS Educate Machine Learning Foundations Badge">
 </p>
 
 <p align="center">
-
-### AWS Educate – Machine Learning Foundations
-
-Successfully completed the **AWS Educate Machine Learning Foundations** training program.
-
+<b>AWS Educate – Machine Learning Foundations</b><br>
+Successfully completed the AWS Educate Machine Learning Foundations training program.
 </p>
 
 ---
 
 # 📚 DSA Progress
 
-### ✅ Completed
+## ✅ Completed
+
 - Arrays
 - Strings
 - Linked Lists
 - Two Pointers
 
-### 🎯 Current Goals
+## 🎯 Current Goals
+
 - Solve LeetCode consistently
 - Master Data Structures & Algorithms
 - Learn Full Stack Development
@@ -103,26 +105,22 @@ Successfully completed the **AWS Educate Machine Learning Foundations** training
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight"/>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight"/>
-
+<br>
 <img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 GitHub Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=github-dark"/>
-
 </p>
 
 ---
@@ -131,7 +129,7 @@ Successfully completed the **AWS Educate Machine Learning Foundations** training
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sakshi-sharma-sde
 - 💻 GitHub: https://github.com/Sakshi2004995
-- 📧 Email: su7645290@gmail.com
+- 📧 Email: **su7645290@gmail.com**
 
 ---
 
@@ -142,8 +140,5 @@ To contribute as a Software Development Engineer by building scalable, efficient
 ---
 
 <p align="center">
-
-⭐ Thank you for visiting my GitHub profile!<br><br>
-<i>Always learning • Always building • Always improving 🚀</i>
-
-</p>
+⭐ Thank you for visiting my GitHub profile! ⭐
+</p><img width="601" height="601" alt="aws-ml-foundations" src="https://github.com/user-attachments/assets/567af15d-b5d2-4901-8c44-1d67e211869a" />
