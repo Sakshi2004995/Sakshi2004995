@@ -191,4 +191,4 @@ Seeking opportunities as a Software Development Engineer where I can apply my pr
 
 ⭐ Thank you for visiting my GitHub Profile! ⭐
 
-</p>
+</p><img width="601" height="601" alt="aws-ml-foundations" src="https://github.com/user-attachments/assets/104ecb56-db40-48f8-9da6-24b789879707" />
