@@ -5,7 +5,24 @@
 </p>
 
 <p align="center">
-Final Year Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms problems, and developing real-world applications.
+Final Year B.Tech Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms, and developing real-world applications.
+</p>
+
+---
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -15,39 +32,34 @@ Final Year Computer Science Engineering Student passionate about building scalab
 - 🎓 Final Year B.Tech Computer Science Engineering Student
 - 💻 Passionate about Software Development and Full Stack Development
 - 🤖 Interested in Artificial Intelligence and Machine Learning
-- 📚 Consistently solving Data Structures & Algorithms problems on LeetCode
-- 🚀 Building projects to strengthen development and problem-solving skills
+- 📚 Solving LeetCode problems consistently
+- 🚀 Building real-world software projects
 - 🎯 Aspiring Software Development Engineer (SDE)
 
 ---
 
 # 💻 Technical Skills
 
-## Programming Languages
-
+### Programming Languages
 - C++
 - Python
 - JavaScript
 
-## Frontend
-
+### Frontend
 - HTML
 - CSS
 - Tailwind CSS
-- React (Learning)
+- React
 
-## Backend
+### Backend
+- Node.js
+- Express.js
 
-- Node.js (Learning)
-- Express.js (Learning)
-
-## Database
-
-- MongoDB (Learning)
+### Database
+- MongoDB
 - MySQL
 
-## Tools
-
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -57,19 +69,31 @@ Final Year Computer Science Engineering Student passionate about building scalab
 
 # 📂 Featured Repositories
 
-### 📚 DSA-Practice
+## 📚 DSA-Practice
 Daily LeetCode solutions in C++ with optimized approaches, explanations, time complexity, and space complexity.
 
-### 💰 Expense Tracker
-Expense Tracker developed using HTML, CSS, and JavaScript.
+🔗 https://github.com/Sakshi2004995/DSA-Practice
 
-### 📊 SoftNexis Task 1
+---
+
+## 💰 Expense Tracker
+A responsive Expense Tracker built using HTML, CSS, and JavaScript for managing daily expenses.
+
+🔗 https://github.com/Sakshi2004995/Expense-Tracker
+
+---
+
+## 📊 SoftNexis Task 1
 Data Cleaning and Preprocessing using Python and Pandas.
 
-### 📈 SoftNexis Task 2
+---
+
+## 📈 SoftNexis Task 2
 Exploratory Data Analysis (EDA) using Python.
 
-### 📉 SoftNexis Task 3
+---
+
+## 📉 SoftNexis Task 3
 Time Series Analysis using Python and Matplotlib.
 
 ---
@@ -82,26 +106,24 @@ Time Series Analysis using Python and Matplotlib.
 
 <p align="center">
 <b>AWS Educate – Machine Learning Foundations</b><br>
-Successfully completed the AWS Educate Machine Learning Foundations training program.
+Successfully completed AWS Educate Machine Learning Foundations Training.
 </p>
 
 ---
 
 # 📚 DSA Progress
 
-## ✅ Completed
-
+### ✅ Completed
 - Arrays
 - Strings
 - Linked Lists
 - Two Pointers
 
-## 🎯 Current Goals
-
-- Solve LeetCode consistently
-- Master Data Structures & Algorithms
-- Learn Full Stack Development
-- Build production-ready software projects
+### 🎯 Current Goals
+- Solve LeetCode Daily
+- Strengthen Data Structures & Algorithms
+- Build Full Stack Applications
+- Contribute to Open Source
 
 ---
 
@@ -109,15 +131,15 @@ Successfully completed the AWS Educate Machine Learning Foundations training pro
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight"/>
-<br>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight"/>
-<br>
+<br><br>
 <img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=github-dark"/>
@@ -127,18 +149,20 @@ Successfully completed the AWS Educate Machine Learning Foundations training pro
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sakshi-sharma-sde
+- 💼 LinkedIn: www.linkedin.com/in/sakshi-sharma-sde
 - 💻 GitHub: https://github.com/Sakshi2004995
-- 📧 Email: **su7645290@gmail.com**
+- 📧 Email: su7645290@gmail.com
 
 ---
 
 # 🎯 Career Objective
 
-To contribute as a Software Development Engineer by building scalable, efficient, and user-focused applications while continuously improving problem-solving skills, software engineering expertise, and real-world development experience.
+To contribute as a Software Development Engineer by building scalable, efficient, and user-focused software while continuously improving problem-solving skills and software engineering expertise.
 
 ---
 
 <p align="center">
-⭐ Thank you for visiting my GitHub profile! ⭐
-</p><img width="601" height="601" alt="aws-ml-foundations" src="https://github.com/user-attachments/assets/567af15d-b5d2-4901-8c44-1d67e211869a" />
+
+⭐ Thank you for visiting my GitHub Profile! ⭐
+
+</p>
