@@ -1,125 +1,98 @@
-<h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
+# Hi there 👋, I'm Sakshi Sharma
 
-<p align="center">
-<b>Software Developer | Full Stack Developer | AI/ML Enthusiast | Problem Solver</b>
-</p>
-
-<p align="center">
-Final Year Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms problems, and developing real-world applications.
-</p>
+🎓 Final Year B.Tech CSE Student  
+💻 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer  
+📍 Rajasthan, India
 
 ---
 
-# 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Final Year B.Tech Computer Science Engineering Student
-- 💻 Passionate about Software Development and Full Stack Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 📚 Consistently solving Data Structures & Algorithms problems on LeetCode
-- 🚀 Building projects to strengthen development and problem-solving skills
-- 🎯 Aspiring Software Development Engineer (SDE)
+- 🌱 Currently learning Full Stack Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💡 Solving Data Structures & Algorithms problems on LeetCode
+- 🚀 Building real-world AI and Web Development projects
+- 🎯 Goal: Software Development Engineer (SDE)
 
 ---
 
-# 💻 Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-
-- C++
-- Python
-- JavaScript
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
-
-- HTML
-- CSS
-- Tailwind CSS
-- React
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
-
-- Node.js
-- Express.js
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- MongoDB
-- MySQL
+### AI/ML
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
 ### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
+Git • GitHub • VS Code • Postman
 
 ---
 
-# 📂 Featured Repositories
+# 🚀 Featured Projects
 
-### 📚 DSA-Practice
+### 🌿 Plant Disease Detection
+Deep Learning project to detect plant diseases using CNN.
 
-Daily LeetCode solutions in C++ with optimized approaches, explanations, time complexity, and space complexity.
+### 💬 AI Resume Analyzer
+AI-powered application that analyzes resumes and provides suggestions.
 
-### 💰 Expense Tracker
+### 🤖 AI Chatbot
+Conversational chatbot built using Python.
 
-Expense Tracker developed using HTML, CSS, and JavaScript.
+### 🍽️ Restaurant Website
+Responsive website using HTML & CSS.
 
-### 📊 SoftNexis Task 1
-
-Data Cleaning and Preprocessing using Python and Pandas.
-
-### 📈 SoftNexis Task 2
-
-Exploratory Data Analysis (EDA) using Python.
-
-### 📉 SoftNexis Task 3
-
-Time Series Analysis using Python and Matplotlib.
+### 💻 DSA Practice
+Regular LeetCode problem solutions in C++.
 
 ---
 
-# 📚 DSA Progress
+# 🏆 Certifications
 
-### Completed
+### AWS Educate - Machine Learning Foundations
 
-- Arrays
-- Linked Lists
-- Two Pointers
+![AWS Badge](images/aws-ml-foundations.png)
 
-### Current Goal
-
-- Solve LeetCode consistently
-- Improve Data Structures & Algorithms
-- Build production-ready software projects
+- ✔ AWS Educate Machine Learning Foundations
+- ✔ Amazon Web Services (AWS)
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Stats
 
-<p align="center">
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=github-dark"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact)
 
-</p>
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/sakshi-sharma-sde
-- 📧 Email: **su7645290@gmail.com**
+![GitHub Streak](https://streak-stats.demolab.com?user=Sakshi2004995)
 
 ---
 
-# 🎯 Career Objective
+## 🌐 Connect with Me
 
-To contribute as a Software Development Engineer by building scalable, efficient, and user-focused applications while continuously improving problem-solving skills and software engineering expertise.
+- 💼 LinkedIn: https://www.linkedin.com/in/sakshi-sharma-sde
+- 💻 GitHub: https://github.com/Sakshi2004995
 
 ---
 
-<p align="center">
-
-⭐ Thank you for visiting my GitHub profile!
-
-</p>
+⭐ Thanks for visiting my profile!
