@@ -5,17 +5,7 @@ Software Developer | Full Stack Developer | AI/ML Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-Final Year Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms problems, and developing real-world applications.
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sakshi2004995&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/Sakshi2004995?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/Sakshi2004995?affiliations=OWNER&style=social"/>
-
+Final Year Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms, and developing real-world software applications.
 </p>
 
 ---
@@ -25,7 +15,7 @@ Final Year Computer Science Engineering Student passionate about building scalab
 - 🎓 Final Year B.Tech Computer Science Engineering Student
 - 💻 Passionate about Software Development & Full Stack Development
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📚 Consistently solving Data Structures & Algorithms problems on LeetCode
+- 📚 Solving Data Structures & Algorithms problems on LeetCode
 - 🚀 Building real-world software projects
 - 🎯 Aspiring Software Development Engineer (SDE)
 
@@ -77,7 +67,7 @@ Daily LeetCode solutions in C++ with optimized approaches, explanations, time co
 
 ## 💰 Expense Tracker
 
-A responsive Expense Tracker built using HTML, CSS and JavaScript for managing daily expenses.
+Responsive Expense Tracker built using HTML, CSS and JavaScript.
 
 🔗 https://github.com/Sakshi2004995/Expense-Tracker
 
@@ -85,7 +75,7 @@ A responsive Expense Tracker built using HTML, CSS and JavaScript for managing d
 
 ## 🍽️ RoyalTaste Restaurant
 
-A responsive restaurant website built using HTML and CSS.
+Responsive Restaurant Website developed using HTML & CSS.
 
 🔗 https://github.com/Sakshi2004995/RoyalTaste-Restaurant
 
@@ -93,7 +83,7 @@ A responsive restaurant website built using HTML and CSS.
 
 ## 🎬 Movie Recommendation System
 
-A Machine Learning based Movie Recommendation System.
+Movie Recommendation System developed using Machine Learning.
 
 🔗 https://github.com/Sakshi2004995/movie-recommendation-system
 
@@ -125,15 +115,15 @@ Time Series Analysis using Python and Matplotlib.
 
 # 📚 DSA Journey
 
-✔ Arrays
+✅ Arrays
 
-✔ Strings
+✅ Strings
 
-✔ Linked Lists
+✅ Linked Lists
 
-✔ Two Pointers
+✅ Two Pointers
 
-🚀 Solving LeetCode consistently to strengthen problem-solving skills.
+🚀 Consistently solving LeetCode to improve problem-solving skills.
 
 ---
 
@@ -164,12 +154,12 @@ Time Series Analysis using Python and Matplotlib.
 # 🏆 Certifications
 
 <p align="center">
-
-<img src="./aws-ml-foundations.png" width="220"/>
-
+<img src="./images/aws-ml-foundations.png" width="320"/>
 </p>
 
-**AWS Educate – Machine Learning Foundations**
+<p align="center">
+<b>AWS Educate – Machine Learning Foundations</b>
+</p>
 
 ---
 
@@ -191,4 +181,4 @@ Seeking opportunities as a Software Development Engineer where I can apply my pr
 
 ⭐ Thank you for visiting my GitHub Profile! ⭐
 
-</p><img width="601" height="601" alt="aws-ml-foundations" src="https://github.com/user-attachments/assets/104ecb56-db40-48f8-9da6-24b789879707" />
+</p>
