@@ -1,105 +1,125 @@
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 
-<h3 align="center">
-Final Year B.Tech CSE Student | Aspiring Software Engineer | AI/ML Enthusiast
-</h3>
+<p align="center">
+<b>Software Developer | Full Stack Developer | AI/ML Enthusiast | Problem Solver</b>
+</p>
 
 <p align="center">
-🌱 Learning Full Stack Development • 💻 Solving DSA • 🤖 Exploring AI & Machine Learning
+Final Year Computer Science Engineering Student passionate about building scalable software, solving Data Structures & Algorithms problems, and developing real-world applications.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech in Computer Science Engineering
-- 💻 Currently learning Full Stack Web Development
-- 📚 Solving LeetCode problems daily using C++
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌱 Improving my Data Structures & Algorithms skills
-- 🎯 Goal: Become a Software Development Engineer (SDE)
+- 🎓 Final Year B.Tech Computer Science Engineering Student
+- 💻 Passionate about Software Development and Full Stack Development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 📚 Consistently solving Data Structures & Algorithms problems on LeetCode
+- 🚀 Building projects to strengthen development and problem-solving skills
+- 🎯 Aspiring Software Development Engineer (SDE)
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Technical Skills
 
-### Languages
+### Programming Languages
+
 - C++
 - Python
 - JavaScript
 
 ### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS (Learning)
+
+- HTML
+- CSS
+- Tailwind CSS
+- React
 
 ### Backend
-- Node.js (Learning)
-- Express.js (Learning)
+
+- Node.js
+- Express.js
 
 ### Database
+
+- MongoDB
 - MySQL
-- MongoDB (Learning)
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
+- Postman
 
 ---
 
-# 📂 Featured Repository
+# 📂 Featured Repositories
 
-## 📘 DSA-Practice
+### 📚 DSA-Practice
 
-This repository contains my LeetCode solutions written in **C++**.
+Daily LeetCode solutions in C++ with optimized approaches, explanations, time complexity, and space complexity.
 
-### Problems Solved
+### 💰 Expense Tracker
 
-- Roman to Integer
-- Valid Parentheses
-- Reverse Integer
-- Remove Nth Node From End of List
-- Merge Two Sorted Lists
-- Reverse Linked List
-- Linked List Cycle
-- Remove Duplicates from Sorted Array
-- Remove Element
-- Find the Index of the First Occurrence in a String
+Expense Tracker developed using HTML, CSS, and JavaScript.
 
-📌 I regularly update this repository with new LeetCode solutions.
+### 📊 SoftNexis Task 1
 
----
+Data Cleaning and Preprocessing using Python and Pandas.
 
-# 🏆 Certifications
+### 📈 SoftNexis Task 2
 
-### AWS Educate – Machine Learning Foundations
+Exploratory Data Analysis (EDA) using Python.
 
-<img src="images/aws-ml-foundations.png" width="220">
+### 📉 SoftNexis Task 3
 
-Successfully completed the AWS Educate Machine Learning Foundations Training.
+Time Series Analysis using Python and Matplotlib.
 
 ---
 
-## 📈 GitHub Stats
+# 📚 DSA Progress
+
+### Completed
+
+- Arrays
+- Linked Lists
+- Two Pointers
+
+### Current Goal
+
+- Solve LeetCode consistently
+- Improve Data Structures & Algorithms
+- Build production-ready software projects
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi2004995&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi2004995&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com?user=Sakshi2004995&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi2004995&theme=github-dark"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-- GitHub: https://github.com/Sakshi2004995
-- LinkedIn: https://www.linkedin.com/in/sakshi-sharma-sde
+- 💼 LinkedIn: www.linkedin.com/in/sakshi-sharma-sde
+- 📧 Email: **su7645290@gmail.com**
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🎯 Career Objective
+
+To contribute as a Software Development Engineer by building scalable, efficient, and user-focused applications while continuously improving problem-solving skills and software engineering expertise.
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile!
+
+</p>
