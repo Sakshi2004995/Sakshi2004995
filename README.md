@@ -155,7 +155,7 @@ Time Series Analysis using Python and Matplotlib.
 
 <div align="center">
 
-<img src="./aws-ml-foundations.png" width="260" alt="AWS Machine Learning Foundations Badge"/>
+<img src="./aws-ml-foundations.png" width="300" alt="AWS Machine Learning Foundations Badge"/>
 
 ### AWS Educate – Machine Learning Foundations
 
