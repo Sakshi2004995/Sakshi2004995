@@ -4,20 +4,24 @@
 Final Year B.Tech CSE Student | Aspiring Software Engineer | AI/ML Enthusiast
 </h3>
 
+<p align="center">
+🌱 Learning Full Stack Development • 💻 Solving DSA • 🤖 Exploring AI & Machine Learning
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech (Computer Science Engineering)
-- 💻 Learning Full Stack Development
+- 🎓 Final Year B.Tech in Computer Science Engineering
+- 💻 Currently learning Full Stack Web Development
+- 📚 Solving LeetCode problems daily using C++
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📚 Solving LeetCode problems regularly
-- 🌱 Currently improving DSA, Web Development and AI skills
-- 🎯 Goal: Software Development Engineer (SDE)
+- 🌱 Improving my Data Structures & Algorithms skills
+- 🎯 Goal: Become a Software Development Engineer (SDE)
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 - C++
@@ -27,50 +31,57 @@ Final Year B.Tech CSE Student | Aspiring Software Engineer | AI/ML Enthusiast
 ### Frontend
 - HTML5
 - CSS3
-- Tailwind CSS
-- React (Learning)
+- Tailwind CSS (Learning)
 
 ### Backend
 - Node.js (Learning)
 - Express.js (Learning)
 
 ### Database
-- MongoDB (Learning)
 - MySQL
+- MongoDB (Learning)
 
 ### Tools
 - Git
 - GitHub
 - VS Code
-- Postman
 
 ---
 
-# 📂 Current Projects
+# 📂 Featured Repository
 
-### 📘 DSA Practice
-- Solving LeetCode problems in C++
-- Clean and optimized solutions
+## 📘 DSA-Practice
 
----
+This repository contains my LeetCode solutions written in **C++**.
 
-### 🍽️ Restaurant Website
-- Responsive Restaurant Website
-- Built using HTML & CSS
+### Problems Solved
+
+- Roman to Integer
+- Valid Parentheses
+- Reverse Integer
+- Remove Nth Node From End of List
+- Merge Two Sorted Lists
+- Reverse Linked List
+- Linked List Cycle
+- Remove Duplicates from Sorted Array
+- Remove Element
+- Find the Index of the First Occurrence in a String
+
+📌 I regularly update this repository with new LeetCode solutions.
 
 ---
 
 # 🏆 Certifications
 
-## AWS Educate – Machine Learning Foundations
+### AWS Educate – Machine Learning Foundations
 
 <img src="images/aws-ml-foundations.png" width="220">
 
-- ✅ Successfully completed AWS Educate Machine Learning Foundations Training
+Successfully completed the AWS Educate Machine Learning Foundations Training.
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -84,15 +95,10 @@ Final Year B.Tech CSE Student | Aspiring Software Engineer | AI/ML Enthusiast
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/sakshi-sharma-sde
-
-💻 GitHub
-
-https://github.com/Sakshi2004995
+- GitHub: https://github.com/Sakshi2004995
+- LinkedIn: https://www.linkedin.com/in/sakshi-sharma-sde
 
 ---
 
